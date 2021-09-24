@@ -2,7 +2,7 @@
 ```
 print("hello, welcome to my page!")
 ```
-![cat](https://commons.wikimedia.org/wiki/File:Cat03.jpg#/media/File:Cat03.jpg)  
+![cat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)  
 
 ### my email: j9liu@ucsd.edu
 ### here is my [Github page](https://github.com/LJW0105)
