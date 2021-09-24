@@ -2,7 +2,7 @@
 ```
 print("hello, welcome to my page!")
 ```
-<img src="./IMG_4260.HEIC" hight="60%" width="40%">  
+![cat](https://commons.wikimedia.org/wiki/File:Cat03.jpg#/media/File:Cat03.jpg)  
 
 ### my email: j9liu@ucsd.edu
 ### here is my [Github page](https://github.com/LJW0105)
